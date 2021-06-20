@@ -1,0 +1,14 @@
+name: CI
+
+on: [push, pull_request]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Upload jar
+        uses: actions/upload-artifact@v2
+        with:
+          name: Airship-Pirates-Crafts
+          path: Airship-Pirates-Crafts/*
