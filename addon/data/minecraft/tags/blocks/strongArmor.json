@@ -1,5 +1,6 @@
 {
   "values" : [
-    "GOLD_BLOCK", "IRON_BLOCK", "DIAMOND_BLOCK", "EMERALD_BLOCK", "BEACON"
+    "GOLD_BLOCK", "DIAMOND_BLOCK", "EMERALD_BLOCK", "BEACON",
+    "#ballastTanks"
   ]
 }
