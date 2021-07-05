@@ -4,6 +4,7 @@
     "#PLANKS",
     "#redstone",
     "#skiffArmor",
-    "#liftingCells"
+    "#liftingCells", "#torpedo",
+    "#base"
   ]
 }

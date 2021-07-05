@@ -4,6 +4,6 @@
     "#LOGS", "#WOODEN_SLABS", "#WOODEN_STAIRS", "#SIGNS", "#DOORS", "#FENCES", "#TRAPDOORS", "#CARPETS", "#WALLS",
     "#glass", "#fence_gates", "#heads",
     "#baseRedstone", "#utility",
-    "#baseArmor", "#strongArmor", "#engines", "#torpedo"
+    "#baseArmor", "#strongArmor", "#engines"
   ]
 }

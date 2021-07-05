@@ -1,7 +1,6 @@
 {
   "values" : [
-    "LAVA", "TERRACOTTA", "LIGHT_GRAY_WOOL", "LIGHT_GRAY_TERRACOTTA", "GRAY_TERRACOTTA", "BLACK_TERRACOTTA",
-    "#endstone",
-    "#baseArmor", "#base"
+    "WATER", "LAVA",
+    "#turretArmor", "#base", "#torpedo"
   ]
 }
