@@ -1,9 +1,6 @@
 {
   "values" : [
-    "WATER", "LAVA", "FIRE", "IRON_BARS",
-    "#PLANKS", "#LOGS", "#WOODEN_SLABS", "#WOODEN_STAIRS", "#SIGNS", "#DOORS", "#FENCES", "#TRAPDOORS", "#CARPETS",
-    "#glass", "#fence_gates", "#heads",
-    "#redstone", "#utility",
-    "#skiffArmor", "#strongArmor", "#liftingCells", "#engines", "#torpedo"
+    "WATER", "LAVA",
+    "#skiff"
   ]
 }
