@@ -8,13 +8,13 @@ jobs:
       - uses: actions/checkout@v2
       - run: mkdir target
       - name: Zip Addon
-        run: zip -r target/AP-Addon.zip addon/*
+        run: cd addon && zip -r ../target/AP-Addon.zip .
       - name: Zip Base
-        run: zip -r target/AP-Base.zip base/*
+        run: cd base && zip -r ../target/AP-Base.zip .
       - name: Zip Craft
-        run: zip -r target/AP-Craft.zip craft/*
+        run: cd craft && zip -r ../target/AP-Craft.zip .
       - name: Zip Trait
-        run: zip -r target/AP-Trait.zip trait/*
+        run: cd trait && zip -r ../target/AP-Trait.zip .
       - uses: actions/upload-artifact@v2
         with:
           name: Airship-Pirates-Crafts
