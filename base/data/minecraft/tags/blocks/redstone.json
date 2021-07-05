@@ -2,6 +2,6 @@
   "values" : [
     "NOTE_BLOCK", "REDSTONE", "CRAFTING_TABLE", "LEVER", "CAKE", "REPEATER", "REDSTONE_LAMP", "TRIPWIRE_HOOK", "TRIPWIRE", "SCAFFOLDING", "COMPARATOR", "SLIME_BLOCK", "DISPENSER", "PISTON", "STICKY_PISTON", "OBSERVER", "DAYLIGHT_SENSOR",
     "#BUTTONS",
-    "#redstoneTorches", "#pressurePlates"
+    "#redstone_torches", "#pressure_plates"
   ]
 }
