@@ -1,0 +1,7 @@
+{
+  "values" : [
+    "BOOKSHELF", "TORCH", "CRAFTING_TABLE", "LADDER", "BREWING_STAND", "CAULDRON", "ENDER_CHEST", "FLOWER_POT", "ANVIL",
+    "#BEDS",
+    "#chests"
+  ]
+}
