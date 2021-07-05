@@ -1,7 +1,6 @@
 {
   "values" : [
-    "SMOOTH_STONE", "SMOOTH_STONE_STAIRS", "STONE_SLAB", "STONE_STAIRS", "NETHER_BRICKS", "NETHER_BRICK_STAIRS", "SANDSTONE", "SANDSTONE_STAIRS", "DISPENSER", "PISTON", "STICKY_PISTON", "OBSERVER",
-    "#terracotta", "#concrete", "#stained_glass_blocks",
-    "#strongSlabs", "#furnace"
+    "NETHER_BRICKS", "NETHER_BRICK_STAIRS",
+    "#airskiffArmor"
   ]
 }
