@@ -1,3 +1,7 @@
 {
-  "values" : ["#FENCES", "#WALLS", "IRON_BARS", "#glass_panes"]
+  "values" : [
+    "IRON_BARS", 
+    "#FENCES", "#WALLS",
+    "#glass_panes"
+  ]
 }
