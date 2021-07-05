@@ -4,6 +4,6 @@
     "#PLANKS", "#LOGS", "#WOODEN_SLABS", "#WOODEN_STAIRS", "#SIGNS", "#DOORS", "#FENCES", "#TRAPDOORS", "#CARPETS",
     "#glass", "#fence_gates", "#heads",
     "#redstone", "#utility",
-    "#airskiffArmor", "#strongArmor", "#liftingCells", "#engines", "#torpedo"
+    "#skiffArmor", "#strongArmor", "#liftingCells", "#engines", "#torpedo"
   ]
 }
