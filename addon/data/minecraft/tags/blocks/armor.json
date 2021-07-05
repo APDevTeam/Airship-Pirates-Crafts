@@ -1,3 +1,7 @@
 {
-  "values" : ["double_step", "step", "smooth_stairs", "nether_brick", "stained_clay", "concrete", "stained_glass", "furnace", "dispenser", "piston", "sticky_piston", "observer"]
+  "values" : [
+    "SMOOTH_STONE", "SMOOTH_STONE_STAIRS", "STONE_STAIRS", "NETHER_BRICKS", "FURNACE", "DISPENSER", "PISTON", "STICKY_PISTON", "OBSERVER",
+    "#terracotta", "#concrete", "#stained_glass_blocks",
+    "#slabs", "#doubleSlabs"
+  ]
 }
