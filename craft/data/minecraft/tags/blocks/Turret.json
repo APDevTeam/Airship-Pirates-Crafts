@@ -1,6 +1,6 @@
 {
   "values" : [
-    "LAVA",
+    "LIGHT_GRAY_WOOL", "LAVA",
     "#turretArmor", "#base"
   ]
 }
