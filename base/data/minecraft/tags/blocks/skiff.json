@@ -1,9 +1,9 @@
 {
   "values" : [
-    "FIRE", "IRON_BARS", "CLAY",
-    "#PLANKS", "#LOGS", "#WOODEN_SLABS", "#WOODEN_STAIRS", "#SIGNS", "#DOORS", "#FENCES", "#TRAPDOORS", "#CARPETS", "#WALLS",
-    "#glass", "#fence_gates", "#heads",
-    "#redstone", "#utility",
-    "#skiffArmor", "#strongArmor", "#liftingCells", "#engines", "#torpedo"
+    "CLAY",
+    "#PLANKS",
+    "#redstone",
+    "#skiffArmor",
+    "#liftingCells"
   ]
 }
