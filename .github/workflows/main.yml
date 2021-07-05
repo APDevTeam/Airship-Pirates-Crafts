@@ -5,9 +5,17 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: actions/checkout@v2
+      - run: mkdir target
+      - name: Zip Addon
+        run: zip -r target/AP-Addon.zip addon
+      - name: Zip Base
+        run: zip -r target/AP-Base.zip base
+      - name: Zip Craft
+        run: zip -r target/AP-Craft.zip craft
+      - name: Zip Trait
+        run: zip -r target/AP-Trait.zip trait
       - uses: actions/upload-artifact@v2
         with:
           name: Airship-Pirates-Crafts
-          path: .
+          path: target
