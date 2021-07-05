@@ -1,3 +1,3 @@
 {
-  "values" : ["ender_stone", "end_bricks"]
+  "values" : ["END_STONE", "END_STONE_BRICKS", "END_STONE_BRICK_SLAB", "END_STONE_BRICK_STAIRS", "LEGACY_ENDER_STONE", "LEGACY_END_BRICKS"]
 }
