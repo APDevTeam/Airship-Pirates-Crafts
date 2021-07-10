@@ -1,7 +1,6 @@
 {
   "values" : [
-    "#glazedTerracotta",
-    "#terracotta",
+    "#glazed_terracotta", "#terracotta",
     "#turretArmor"
   ]
 }
