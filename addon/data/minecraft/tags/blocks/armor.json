@@ -1,6 +1,5 @@
 {
   "values" : [
-    " other craft armors? ",
-    "#elevatorArmor", "turretArmor", "#shipArmor"
+    "#airshipArmor"
   ]
 }
