@@ -1,6 +1,6 @@
 {
   "values" : [
-    "STAINED CLAY?",
-    "#elevatorArmor", "turretArmor"
+    " other craft armors? ",
+    "#elevatorArmor", "turretArmor", "#shipArmor"
   ]
 }
