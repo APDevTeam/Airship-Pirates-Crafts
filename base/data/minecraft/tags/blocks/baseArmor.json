@@ -2,6 +2,6 @@
   "values" : [
     "SMOOTH_STONE", "SMOOTH_STONE_STAIRS", "STONE_STAIRS", "SANDSTONE", "SANDSTONE_STAIRS", "DISPENSER", "PISTON", "STICKY_PISTON", "OBSERVER",
     "#terracotta minus some stuff", "#concrete", "#stained_glass_blocks",
-    "#baseSlabs", "#furnace"
+    "#baseSlabs", "#smelter"
   ]
 }
