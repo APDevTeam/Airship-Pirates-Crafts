@@ -1,7 +1,6 @@
 {
   "values" : [
     "chiseled_quartz_block", "quartz_block", "quartz_pillar", "quartz_stairs",
-    "#terracotta",
     "#skiff_slabs",
     "#base_armor"
   ]
