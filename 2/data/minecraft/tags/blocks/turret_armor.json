@@ -1,6 +1,6 @@
 {
   "values" : [
-    "light_gray_terracotta", "gray_terracotta", "black_terracotta", "end_stone_bricks", "end_stone_brick_slab", "end_stone_brick_stairs",
+    "light_gray_terracotta", "gray_terracotta", "black_terracotta", "end_stone_bricks", "end_stone_brick_slab", "end_stone_brick_stairs", "nether_brick_stairs",
     "#base_armor"
   ]
 }
