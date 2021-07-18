@@ -1,3 +1,6 @@
 {
-  "values" : ["air", "glass", "stained_glass", "stained_glass_pane", "iron_fence", "redstone_wire", "iron_trapdoor", "trap_door", "nether_brick_stairs", "lever", "stone_button", "wood_button", "step", "smooth_stairs", "sign", "sign_post", "wall_sign", "carpet"]
+  "values" : [
+    "air", "iron_fence", "redstone_wire", "iron_trapdoor", "trap_door", "nether_brick_stairs", "lever", "stone_button", "wood_button", "step", "smooth_stairs", "sign", "sign_post", "wall_sign", "carpet",
+    "#glass"
+  ]
 }
