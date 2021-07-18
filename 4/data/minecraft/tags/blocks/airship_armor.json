@@ -1,0 +1,7 @@
+{
+  "values" : [
+    "stone_bricks", "mossy_stone_bricks", "cracked_stone_bricks", "chiseled_stone_bricks", "stone_brick_stairs",
+    "#concrete",
+    "#elevator_armor", "#turret_armor", "#ship_armor"
+  ]
+}

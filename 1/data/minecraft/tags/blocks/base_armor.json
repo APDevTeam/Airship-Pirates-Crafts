@@ -1,0 +1,7 @@
+{
+  "values" : [
+    "smooth_stone", "smooth_stone_stairs", "stone_stairs", "sandstone", "sandstone_stairs", "dispenser", "piston", "sticky_piston", "observer",
+    "#concrete", "#stained_glass_blocks",
+    "#base_slabs", "#smelter"
+  ]
+}
