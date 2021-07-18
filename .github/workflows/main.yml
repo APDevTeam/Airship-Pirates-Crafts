@@ -15,7 +15,7 @@ jobs:
       - name: Zip 2
         run: cd 2 && zip -r ../target/AP-2.zip .
       - name: Zip 3
-        run: cd 0\3 && zip -r ../target/AP-3.zip .
+        run: cd 3 && zip -r ../target/AP-3.zip .
       - name: Zip 4
         run: cd 4 && zip -r ../target/AP-4.zip .
       - name: Zip 5
