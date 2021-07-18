@@ -1,7 +1,7 @@
 {
   "values" : [
     "NETHERRACK", "GLOWSTONE", "ENCHANTING_TABLE",
-    "#airshipArmor",
-    "#SubAirskiff"
+    "#airship_armor",
+    "#subairskiff"
   ]
 }
