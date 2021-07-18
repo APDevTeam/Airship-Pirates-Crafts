@@ -1,3 +1,5 @@
 {
-  "values" : ["REDSTONE_BLOCK"]
+  "values" : [
+    "redstone_block"
+  ]
 }

@@ -1,5 +1,5 @@
 {
   "values" : [
-    "GOLD_BLOCK", "DIAMOND_BLOCK", "EMERALD_BLOCK", "BEACON"
+    "gold_block", "diamond_block", "emerald_block", "beacon"
   ]
 }

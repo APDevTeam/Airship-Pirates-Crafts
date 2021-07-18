@@ -1,6 +1,6 @@
 {
   "values" : [
-    "NETHERRACK", "GLOWSTONE", "ENCHANTING_TABLE",
+    "netherrack", "glowstone", "enchanting_table",
     "#airship_armor",
     "#subairskiff"
   ]

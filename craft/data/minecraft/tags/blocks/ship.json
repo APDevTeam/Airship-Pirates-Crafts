@@ -1,6 +1,6 @@
 {
   "values" : [
-    "LAVA", "DROPPER",
+    "lava", "dropper",
     "#ship_armor",
     "#bigsubairskiff"
   ]

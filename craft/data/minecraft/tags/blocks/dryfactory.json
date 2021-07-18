@@ -1,6 +1,6 @@
 {
   "values" : [
-    "POLISHED_ANDESITE", "POLISHED_ANDESITE_SLAB", "POLISHED_ANDESITE_STAIRS",
+    "polished_andesite", "polished_andesite_slab", "polished_andesite_stairs",
     "#concrete_powder",
     "#subairship"
   ]

@@ -1,5 +1,5 @@
 {
   "values" : [
-    "END_STONE", "END_STONE_BRICKS", "END_STONE_BRICK_SLAB", "END_STONE_BRICK_STAIRS"
+    "end_stone", "end_stone_bricks", "end_stone_brick_slab", "end_stone_brick_stairs"
   ]
 }

@@ -1,3 +1,5 @@
 {
-  "values" : ["PISTON_HEAD", "MOVING_PISTON"]
+  "values" : [
+    "piston_head", "moving_piston"
+  ]
 }

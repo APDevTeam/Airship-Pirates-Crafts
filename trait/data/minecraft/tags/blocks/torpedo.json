@@ -1,3 +1,5 @@
 {
-  "values" : ["COAL_BLOCK"]
+  "values" : [
+    "coal_block"
+  ]
 }

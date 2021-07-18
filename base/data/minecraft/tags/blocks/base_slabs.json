@@ -1,7 +1,7 @@
 {
   "values" : [
-    "STONE_SLAB", "STONE_BRICK_SLAB", "COBBLESTONE_SLAB", "SMOOTH_STONE_SLAB",
-    "NETHER_BRICK_SLAB", "RED_NETHER_BRICK_SLAB",
-    "SANDSTONE_SLAB", "SMOOTH_SANDSTONE_SLAB", "CUT_SANDSTONE_SLAB"
+    "stone_slab", "stone_brick_slab", "cobblestone_slab", "smooth_stone_slab",
+    "nether_brick_slab", "red_nether_brick_slab",
+    "sandstone_slab", "smooth_sandstone_slab", "cut_sandstone_slab"
   ]
 }

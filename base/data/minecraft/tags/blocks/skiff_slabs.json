@@ -1,6 +1,6 @@
 {
   "values" : [
-    "QUARTZ_SLAB", "SMOOTH_QUARTZ_SLAB", "BRICK_SLAB",
+    "quartz_slab", "smooth_quartz_slab", "brick_slab",
     "#base_slabs"
   ]
 }
