@@ -6,19 +6,26 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - run: touch addon/$GITHUB_SHA.txt
-      - run: touch base/$GITHUB_SHA.txt
-      - run: touch craft/$GITHUB_SHA.txt
-      - run: touch trait/$GITHUB_SHA.txt
+      - run: touch 0/$GITHUB_SHA.txt &&  touch 1/$GITHUB_SHA.txt && touch 2/$GITHUB_SHA.txt && touch 3/$GITHUB_SHA.txt && touch 4/$GITHUB_SHA.txt && touch 5/$GITHUB_SHA.txt && touch 6/$GITHUB_SHA.txt && touch 7/$GITHUB_SHA.txt && touch 8/$GITHUB_SHA.txt
       - run: mkdir target
-      - name: Zip Addon
-        run: cd addon && zip -r ../target/AP-Addon.zip .
-      - name: Zip Base
-        run: cd base && zip -r ../target/AP-Base.zip .
-      - name: Zip Craft
-        run: cd craft && zip -r ../target/AP-Craft.zip .
-      - name: Zip Trait
-        run: cd trait && zip -r ../target/AP-Trait.zip .
+      - name: Zip 0
+        run: cd addon && zip -r ../target/AP-0.zip .
+      - name: Zip 1
+        run: cd addon && zip -r ../target/AP-1.zip .
+      - name: Zip 2
+        run: cd addon && zip -r ../target/AP-2.zip .
+      - name: Zip 3
+        run: cd addon && zip -r ../target/AP-3.zip .
+      - name: Zip 4
+        run: cd addon && zip -r ../target/AP-4.zip .
+      - name: Zip 5
+        run: cd addon && zip -r ../target/AP-5.zip .
+      - name: Zip 6
+        run: cd addon && zip -r ../target/AP-6.zip .
+      - name: Zip 7
+        run: cd addon && zip -r ../target/AP-7.zip .
+      - name: Zip 8
+        run: cd addon && zip -r ../target/AP-8.zip .
       - uses: actions/upload-artifact@v2
         with:
           name: Airship-Pirates-Crafts
