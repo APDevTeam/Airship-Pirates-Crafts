@@ -9,23 +9,23 @@ jobs:
       - run: touch 0/$GITHUB_SHA.txt &&  touch 1/$GITHUB_SHA.txt && touch 2/$GITHUB_SHA.txt && touch 3/$GITHUB_SHA.txt && touch 4/$GITHUB_SHA.txt && touch 5/$GITHUB_SHA.txt && touch 6/$GITHUB_SHA.txt && touch 7/$GITHUB_SHA.txt && touch 8/$GITHUB_SHA.txt
       - run: mkdir target
       - name: Zip 0
-        run: cd addon && zip -r ../target/AP-0.zip .
+        run: cd 0 && zip -r ../target/AP-0.zip .
       - name: Zip 1
-        run: cd addon && zip -r ../target/AP-1.zip .
+        run: cd 1 && zip -r ../target/AP-1.zip .
       - name: Zip 2
-        run: cd addon && zip -r ../target/AP-2.zip .
+        run: cd 2 && zip -r ../target/AP-2.zip .
       - name: Zip 3
-        run: cd addon && zip -r ../target/AP-3.zip .
+        run: cd 0\3 && zip -r ../target/AP-3.zip .
       - name: Zip 4
-        run: cd addon && zip -r ../target/AP-4.zip .
+        run: cd 4 && zip -r ../target/AP-4.zip .
       - name: Zip 5
-        run: cd addon && zip -r ../target/AP-5.zip .
+        run: cd 5 && zip -r ../target/AP-5.zip .
       - name: Zip 6
-        run: cd addon && zip -r ../target/AP-6.zip .
+        run: cd 6 && zip -r ../target/AP-6.zip .
       - name: Zip 7
-        run: cd addon && zip -r ../target/AP-7.zip .
+        run: cd 7 && zip -r ../target/AP-7.zip .
       - name: Zip 8
-        run: cd addon && zip -r ../target/AP-8.zip .
+        run: cd 8 && zip -r ../target/AP-8.zip .
       - uses: actions/upload-artifact@v2
         with:
           name: Airship-Pirates-Crafts
