@@ -2,6 +2,6 @@
   "values" : [
     "TERRACOTTA", "LIGHT_GRAY_TERRACOTTA", "GRAY_TERRACOTTA", "BLACK_TERRACOTTA",
     "#endstone",
-    "#baseArmor"
+    "#base_armor"
   ]
 }

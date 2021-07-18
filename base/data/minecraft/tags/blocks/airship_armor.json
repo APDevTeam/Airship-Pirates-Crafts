@@ -2,6 +2,6 @@
   "values" : [
     "STONE_BRICKS", "MOSSY_STONE_BRICKS", "CRACKED_STONE_BRICKS", "CHISELED_STONE_BRICKS", "STONE_BRICK_STAIRS",
     "#concrete",
-    "#elevatorArmor", "turretArmor", "#shipArmor"
+    "#elevator_armor", "turret_armor", "#ship_armor"
   ]
 }

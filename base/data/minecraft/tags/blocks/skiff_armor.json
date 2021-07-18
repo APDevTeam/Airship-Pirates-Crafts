@@ -2,7 +2,7 @@
   "values" : [
     "CHISELED_QUARTZ_BLOCK", "QUARTZ_BLOCK", "QUARTZ_PILLAR", "QUARTZ_STAIRS",
     "#terracotta",
-    "#skiffSlabs",
-    "#baseArmor"
+    "#skiff_slabs",
+    "#base_armor"
   ]
 }

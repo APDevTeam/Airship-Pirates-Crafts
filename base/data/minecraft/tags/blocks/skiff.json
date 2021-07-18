@@ -3,8 +3,8 @@
     "CLAY",
     "#PLANKS",
     "#redstone",
-    "#skiffArmor",
-    "#liftingCells", "#torpedo",
+    "#skiff_armor",
+    "#lifting_cells", "#torpedo",
     "#base"
   ]
 }
