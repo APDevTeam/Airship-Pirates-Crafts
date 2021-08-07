@@ -2,7 +2,7 @@
   "values" : [
     "clay",
     "#planks",
-    "#redstone",
+    "#redstone", "#glass_panes",
     "#skiff_armor",
     "#lifting_cells", "#torpedo",
     "#base"

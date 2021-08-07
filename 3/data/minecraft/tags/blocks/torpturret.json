@@ -1,6 +1,6 @@
 {
   "values" : [
-    "light_gray_wool", "lava",
+    "light_gray_wool", "lava", "glass_pane",
     "#turret_armor", "#base", "#torpedo"
   ]
 }
