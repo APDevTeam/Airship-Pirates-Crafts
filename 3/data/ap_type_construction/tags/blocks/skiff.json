@@ -2,7 +2,7 @@
   "values" : [
     "clay", "oak_fence", "oak_fence_gate",
     "#planks",
-    "#redstone", "#glass_panes",
+    "#ap_type_construction:redstone", "#glass_panes",
     "#ap_type_construction:skiff_armor",
     "#ap_craft_flags:lifting_cells", "#ap_type_construction:torpedo",
     "#ap_type_construction:base"
