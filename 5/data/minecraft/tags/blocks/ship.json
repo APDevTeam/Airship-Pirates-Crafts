@@ -1,7 +1,7 @@
 {
   "values" : [
     "lava", "dropper",
-    "#ship_armor",
+    "#ap_type_construction:ship_armor",
     "#subairskiff"
   ]
 }

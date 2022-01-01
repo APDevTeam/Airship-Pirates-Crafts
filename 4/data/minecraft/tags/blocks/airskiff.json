@@ -1,6 +1,6 @@
 {
   "values" : [
     "water", "lava",
-    "#skiff"
+    "#ap_type_construction:skiff"
   ]
 }
