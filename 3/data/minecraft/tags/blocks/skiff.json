@@ -1,6 +1,6 @@
 {
   "values" : [
-    "clay",
+    "clay", "oak_fence", "oak_fence_gate",
     "#planks",
     "#redstone", "#glass_panes",
     "#skiff_armor",
