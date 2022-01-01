@@ -1,7 +1,7 @@
 {
   "values" : [
     "chiseled_quartz_block", "quartz_block", "quartz_pillar", "quartz_stairs",
-    "#skiff_slabs",
+    "#ap_type_construction:skiff_slabs",
     "#ap_type_construction:base_armor"
   ]
 }
