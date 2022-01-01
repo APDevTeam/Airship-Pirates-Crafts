@@ -18,4 +18,4 @@ Datapacks for Airship Pirates Movecraft types.  Our layered setup requires a mul
 ```
 
 ## Layered Setup
-The datapacks are layered from 0 to 8 (currently) to allow us to use tags within tags (for example, `#airship` is used in `#factory`).  The `N` folder is used as a template for new layers.
+The datapacks are layered from 0 to 8 (currently) to allow us to use tags within tags (for example, `#ap_types:airship` is used in `#ap_types:factory`).  The `N` folder is used as a template for new layers.

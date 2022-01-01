@@ -1,5 +1,5 @@
 {
   "values" : [
-    "#airship", "#ap_types:subairship"
+    "#ap_types:airship", "#ap_types:subairship"
   ]
 }
