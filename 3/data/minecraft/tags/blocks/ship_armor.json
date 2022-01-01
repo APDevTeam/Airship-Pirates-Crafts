@@ -1,6 +1,6 @@
 {
   "values" : [
     "#glazed_terracotta", "#terracotta", "#concrete",
-    "#turret_armor"
+    "#ap_type_construction:turret_armor"
   ]
 }

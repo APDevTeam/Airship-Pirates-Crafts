@@ -3,8 +3,8 @@
     "clay", "oak_fence", "oak_fence_gate",
     "#planks",
     "#redstone", "#glass_panes",
-    "#skiff_armor",
+    "#ap_type_construction:skiff_armor",
     "#ap_craft_flags:lifting_cells", "#ap_type_construction:torpedo",
-    "#base"
+    "#ap_type_construction:base"
   ]
 }
