@@ -3,7 +3,7 @@
     "fire", "iron_bars", "clay",
     "#logs", "#wooden_slabs", "#wooden_stairs", "#signs", "#doors", "#trapdoors", "#carpets", "#walls",
     "#glass_blocks", "#heads",
-    "#ap_type_options:base_redstone", "#ap_type_construction:utility",
+    "#ap_type_construction:base_redstone", "#ap_type_construction:utility",
     "#ap_type_construction:base_armor", "#ap_type_construction:strong_blocks", "#ap_craft_flags:engines"
   ]
 }
