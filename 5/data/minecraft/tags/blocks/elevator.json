@@ -2,6 +2,6 @@
   "values" : [
     "glowstone",
     "#ap_type_construction:elevator_armor",
-    "#airskiff"
+    "#ap_types:airskiff"
   ]
 }

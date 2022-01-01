@@ -3,6 +3,6 @@
     "netherrack", "glowstone", "enchanting_table", "#fences", "lava",
     "#fence_gates",
     "#airship_armor",
-    "#subairskiff"
+    "#ap_types:subairskiff"
   ]
 }
