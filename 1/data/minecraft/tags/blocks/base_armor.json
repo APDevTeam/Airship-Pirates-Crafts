@@ -2,6 +2,6 @@
   "values" : [
     "smooth_stone", "stone_stairs", "sandstone", "sandstone_stairs", "dispenser", "piston", "sticky_piston", "observer",
     "#stained_glass_blocks",
-    "#base_slabs", "#smelter"
+    "#ap_type_construction:base_slabs", "#smelter"
   ]
 }

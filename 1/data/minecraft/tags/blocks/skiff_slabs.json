@@ -1,6 +1,6 @@
 {
   "values" : [
     "quartz_slab", "smooth_quartz_slab", "brick_slab",
-    "#base_slabs"
+    "#ap_type_construction:base_slabs"
   ]
 }

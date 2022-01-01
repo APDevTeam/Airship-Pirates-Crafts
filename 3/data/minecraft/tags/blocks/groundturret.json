@@ -1,6 +1,6 @@
 {
   "values" : [
     "light_gray_wool", "lava",
-    "#turret_armor", "#base", "#torpedo"
+    "#turret_armor", "#base", "#ap_type_construction:torpedo"
   ]
 }
