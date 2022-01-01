@@ -2,7 +2,7 @@
   "values" : [
     "netherrack", "glowstone", "enchanting_table", "#fences", "lava",
     "#fence_gates",
-    "#airship_armor",
+    "#ap_type_construction:airship_armor",
     "#ap_types:subairskiff"
   ]
 }
