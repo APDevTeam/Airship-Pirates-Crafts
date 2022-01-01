@@ -1,8 +1,8 @@
 {
   "values" : [
     "fire", "iron_bars", "clay",
-    "#logs", "#wooden_slabs", "#wooden_stairs", "#signs", "#doors", "#fences", "#trapdoors", "#carpets", "#walls",
-    "#glass_blocks", "#fence_gates", "#heads",
+    "#logs", "#wooden_slabs", "#wooden_stairs", "#signs", "#doors", "#trapdoors", "#carpets", "#walls",
+    "#glass_blocks", "#heads",
     "#base_redstone", "#utility",
     "#base_armor", "#strong_blocks", "#engines"
   ]
