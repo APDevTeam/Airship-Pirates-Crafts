@@ -4,6 +4,6 @@
     "#logs", "#wooden_slabs", "#wooden_stairs", "#signs", "#doors", "#trapdoors", "#carpets", "#walls",
     "#glass_blocks", "#heads",
     "#ap_type_options:base_redstone", "#utility",
-    "#base_armor", "#ap_type_construction:strong_blocks", "#ap_craft_flags:engines"
+    "#ap_type_construction:base_armor", "#ap_type_construction:strong_blocks", "#ap_craft_flags:engines"
   ]
 }
