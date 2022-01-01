@@ -1,6 +1,6 @@
 {
   "values" : [
-    "#ballast_tanks",
+    "#ap_craft_flags:ballast_tanks",
     "#skiff"
   ]
 }

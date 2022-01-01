@@ -4,7 +4,7 @@
     "#planks",
     "#redstone", "#glass_panes",
     "#skiff_armor",
-    "#lifting_cells", "#torpedo",
+    "#ap_craft_flags:lifting_cells", "#torpedo",
     "#base"
   ]
 }
