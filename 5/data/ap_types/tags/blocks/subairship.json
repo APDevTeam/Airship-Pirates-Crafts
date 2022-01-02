@@ -1,7 +1,7 @@
 {
   "values" : [
-    "netherrack", "glowstone", "enchanting_table", "#fences", "lava",
-    "#fence_gates",
+    "netherrack", "glowstone", "enchanting_table", "lava", "blue_ice",
+    "#fence_gates", "#fences",
     "#ap_type_construction:airship_armor",
     "#ap_types:subairskiff"
   ]
