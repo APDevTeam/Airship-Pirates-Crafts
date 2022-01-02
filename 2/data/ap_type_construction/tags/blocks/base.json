@@ -1,6 +1,6 @@
 {
   "values" : [
-    "fire", "iron_bars", "clay",
+    "fire", "iron_bars", "clay", "oak_fence", "oak_fence_gate",
     "#logs", "#wooden_slabs", "#wooden_stairs", "#signs", "#doors", "#trapdoors", "#carpets", "#walls",
     "#glass_blocks", "#heads",
     "#ap_type_construction:base_redstone", "#ap_type_construction:utility",

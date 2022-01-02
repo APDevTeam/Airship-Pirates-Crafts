@@ -1,6 +1,6 @@
 {
   "values" : [
-    "clay", "oak_fence", "oak_fence_gate",
+    "clay",
     "#planks",
     "#ap_type_construction:redstone", "#glass_panes",
     "#ap_type_construction:skiff_armor",
