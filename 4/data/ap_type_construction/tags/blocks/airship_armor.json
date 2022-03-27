@@ -2,6 +2,6 @@
   "values" : [
     "stone_bricks", "mossy_stone_bricks", "cracked_stone_bricks", "chiseled_stone_bricks", "stone_brick_stairs",
     "#terracotta", "#concrete",
-    "#ap_combat:endstone", "#ap_type_construction:elevator_armor", "#ap_type_construction:turret_armor", "#ap_type_construction:ship_armor"
+    "#ap_combat:endstone", "#ap_combat:weak_endstone", "#ap_type_construction:elevator_armor", "#ap_type_construction:turret_armor", "#ap_type_construction:ship_armor"
     ]
 }
