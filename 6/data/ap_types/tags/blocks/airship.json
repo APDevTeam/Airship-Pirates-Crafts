@@ -1,5 +1,6 @@
 {
   "values" : [
+    "soul_sand", "magma_block",
     "#ap_types:airskiff", "#ap_types:subairship"
   ]
 }
