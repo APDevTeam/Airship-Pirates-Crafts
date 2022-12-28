@@ -5,8 +5,9 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
-      - run: touch 0/$GITHUB_SHA.txt &&  touch 1/$GITHUB_SHA.txt && touch 2/$GITHUB_SHA.txt && touch 3/$GITHUB_SHA.txt && touch 4/$GITHUB_SHA.txt && touch 5/$GITHUB_SHA.txt && touch 6/$GITHUB_SHA.txt && touch 7/$GITHUB_SHA.txt && touch 8/$GITHUB_SHA.txt
+      - uses: actions/checkout@v3
+      - name: Add SHA to zipfiles
+        run: touch 0/$GITHUB_SHA.txt && touch 1/$GITHUB_SHA.txt && touch 2/$GITHUB_SHA.txt && touch 3/$GITHUB_SHA.txt && touch 4/$GITHUB_SHA.txt && touch 5/$GITHUB_SHA.txt && touch 6/$GITHUB_SHA.txt && touch 7/$GITHUB_SHA.txt && touch 8/$GITHUB_SHA.txt
       - run: mkdir target
       - name: Zip 0
         run: cd 0 && zip -r ../target/AP-0.zip .
@@ -26,7 +27,7 @@ jobs:
         run: cd 7 && zip -r ../target/AP-7.zip .
       - name: Zip 8
         run: cd 8 && zip -r ../target/AP-8.zip .
-      - uses: actions/upload-artifact@v2
+      - uses: actions/upload-artifact@v3
         with:
           name: Airship-Pirates-Crafts
           path: target
