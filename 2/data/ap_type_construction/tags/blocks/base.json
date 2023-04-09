@@ -5,6 +5,7 @@
     "#glass_blocks", "#heads",
     "#ap_type_construction:base_logs", "#ap_type_construction:base_redstone",
     "#ap_type_construction:base_wooden_stairs", "#ap_type_construction:utility",
-    "#ap_type_construction:base_armor", "#ap_type_construction:strong_blocks", "#ap_craft_flags:engines"
+    "#ap_type_construction:base_armor", "#ap_type_construction:strong_blocks", "#ap_craft_flags:engines",
+    "#ap_craft_flags:forbidden_blocks"
   ]
 }
