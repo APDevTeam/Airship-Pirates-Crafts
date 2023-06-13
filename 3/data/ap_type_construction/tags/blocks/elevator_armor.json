@@ -1,6 +1,6 @@
 {
   "values" : [
-    "nether_bricks", "nether_brick_stairs", "dropper",
+    "nether_bricks", "cracked_nether_bricks", "chiseled_nether_bricks", "nether_brick_stairs", "red_nether_brick_stairs", "dropper",
     "#ap_type_construction:skiff_armor"
   ]
 }
