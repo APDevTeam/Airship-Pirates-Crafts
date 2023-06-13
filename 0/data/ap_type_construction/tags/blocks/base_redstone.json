@@ -1,6 +1,6 @@
 {
   "values" : [
-    "note_block", "redstone_wire", "crafting_table", "lever", "cake", "repeater", "redstone_lamp", "tripwire_hook", "tripwire", "scaffolding", "comparator", "slime_block", "dispenser", "piston", "sticky_piston", "observer", "daylight_detector",
+    "note_block", "redstone_wire", "crafting_table", "lever", "cake", "repeater", "redstone_lamp", "tripwire_hook", "tripwire", "scaffolding", "comparator", "slime_block", "honey_block", "dispenser", "piston", "sticky_piston", "observer", "daylight_detector",
     "#buttons", "#pressure_plates"
   ]
 }
