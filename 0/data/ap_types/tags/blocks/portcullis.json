@@ -1,6 +1,6 @@
 {
   "values" : [
-    "iron_bars", 
+    "iron_bars", "chain",
     "#fences", "#walls",
     "#glass_panes"
   ]
