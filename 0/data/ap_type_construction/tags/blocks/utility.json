@@ -1,6 +1,6 @@
 {
   "values" : [
-    "bookshelf", "torch", "crafting_table", "ladder", "brewing_stand", "cauldron", "ender_chest", "flower_pot", "anvil",
+    "bookshelf", "torch", "#campfires", "crafting_table", "ladder", "brewing_stand", "cauldron", "ender_chest", "flower_pot", "anvil",
     "#beds",
     "#chests"
   ]
