@@ -1,6 +1,6 @@
 {
   "values" : [
-    "water", "lava",
+    "water", "bubble_column", "lava",
     "#ap_type_construction:skiff"
   ]
 }

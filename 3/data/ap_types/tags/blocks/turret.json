@@ -1,6 +1,6 @@
 {
   "values" : [
-    "light_gray_wool", "lava", "water", "glass_pane", "glowstone",
+    "light_gray_wool", "lava", "water", "bubble_column", "glass_pane", "glowstone",
     "#ap_type_construction:turret_armor", "#ap_type_construction:base"
   ]
 }
