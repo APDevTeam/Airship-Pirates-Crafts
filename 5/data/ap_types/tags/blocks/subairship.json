@@ -1,8 +1,8 @@
 {
   "values" : [
-    "netherrack", "glowstone", "enchanting_table", "lava", "blue_ice", "iron_trapdoor",
+    "netherrack", "enchanting_table", "blue_ice", "iron_trapdoor",
     "#fence_gates", "#fences",
     "#ap_type_construction:airship_armor",
-    "#ap_types:subairskiff"
+    "#ap_types:torpturret", "#ap_types:subairskiff"
   ]
 }
