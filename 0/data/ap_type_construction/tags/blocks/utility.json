@@ -1,6 +1,6 @@
 {
   "values" : [
-    "bookshelf", "torch", "soul_torch", "lantern", "soul_lantern", "#campfires", "crafting_table", "ladder", "brewing_stand", "cauldron", "ender_chest", "flower_pot", "anvil", "chain",
+    "bookshelf", "torch", "soul_torch", "lantern", "soul_lantern", "#campfires", "crafting_table", "ladder", "brewing_stand", "cauldron", "ender_chest", "flower_pot", "anvil", "chain", "stonecutter", "cartography_table", "fletching_table", "smithing_table", "grindstone", "loom", "composter", "jukebox", "bell",
     "#beds",
     "#chests"
   ]
