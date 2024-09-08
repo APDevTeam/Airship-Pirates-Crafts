@@ -1,7 +1,7 @@
 {
   "values" : [
     "fire", "iron_bars", "clay", "oak_fence", "oak_fence_gate",
-    "#wooden_slabs", "#signs", "#doors", "#wooden_trapdoors", "#carpets", "#walls",
+    "#wooden_slabs", "#all_signs", "#doors", "#wooden_trapdoors", "#carpets", "#walls",
     "#glass_blocks", "#heads",
     "#ap_type_construction:base_logs", "#ap_type_construction:base_redstone",
     "#ap_type_construction:base_wooden_stairs", "#ap_type_construction:utility",
