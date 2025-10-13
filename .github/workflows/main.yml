@@ -27,7 +27,7 @@ jobs:
         run: cd 7 && zip -r ../target/AP-7.zip .
       - name: Zip 8
         run: cd 8 && zip -r ../target/AP-8.zip .
-      - uses: actions/upload-artifact@v3
+      - uses: actions/upload-artifact@v4
         with:
           name: Airship-Pirates-Crafts
           path: target
